@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **kshitijchavhan09@gmail.com**
 
-- 📄 Know about my experiences [file:///D:/Files/Kshitij's%20Resume-hacker.pdf](file:///D:/Files/Kshitij's%20Resume-hacker.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kshitij chavhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitij chavhan" height="30" width="40" /></a>
